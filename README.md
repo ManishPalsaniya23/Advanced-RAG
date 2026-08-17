@@ -1,1 +1,2 @@
-# Advanced-RAG
+# Advanced-RAG for research paper assistant
+
